@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Zustand + TailwindCSS + ReactRouterDom
+# React + TypeScript + Vite + Zustand + Zod + TailwindCSS + ReactRouterDom
 
 Este es un cascarón de proyecto, siéntete libre de usarlo para tus proyectos.
 
